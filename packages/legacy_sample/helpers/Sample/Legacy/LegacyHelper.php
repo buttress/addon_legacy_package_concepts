@@ -5,7 +5,7 @@ namespace Concrete\Package\LegacySample\Helpers\Sample\Legacy;
  * Class LegacyHelper
  * A sample concrete5 v6 "helper"-esque class
  *
- * @package Concrete\Package\LegacySample\Libraries
+ * @package Concrete\Package\LegacySample\Helpers\Sample\Legacy
  */
 class LegacyHelper
 {
